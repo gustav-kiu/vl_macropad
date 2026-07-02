@@ -3372,7 +3372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_with-3d"
+		(property "Footprint" "vl_macropad:SW_Cherry_MX_1.00u_PCB"
 			(at 34.29 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -3530,7 +3530,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_with-3d"
+		(property "Footprint" "vl_macropad:SW_Cherry_MX_1.00u_PCB"
 			(at 85.09 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -3974,7 +3974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_with-3d"
+		(property "Footprint" "vl_macropad:SW_Cherry_MX_1.00u_PCB"
 			(at 110.49 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -4768,7 +4768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_with-3d"
+		(property "Footprint" "vl_macropad:SW_Cherry_MX_1.00u_PCB"
 			(at 85.09 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5126,7 +5126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_with-3d"
+		(property "Footprint" "vl_macropad:SW_Cherry_MX_1.00u_PCB"
 			(at 110.49 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5498,7 +5498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_with-3d"
+		(property "Footprint" "vl_macropad:SW_Cherry_MX_1.00u_PCB"
 			(at 59.69 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5680,7 +5680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_with-3d"
+		(property "Footprint" "vl_macropad:SW_Cherry_MX_1.00u_PCB"
 			(at 59.69 118.11 0)
 			(hide yes)
 			(show_name no)

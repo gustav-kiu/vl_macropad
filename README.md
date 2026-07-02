@@ -63,9 +63,7 @@ Encoder CW/CCW - volume up/down; press - mute
 |  |  |  |  |
 |---|---|---|---|
 | media - previous | media - next | media - play/pause | fn |
-| F17 | F18 | F19 | F20 |
-
-The functions keys in the second were actually supposed to go from 13 to 16
+| F13 | F14 | F15 | F16 |
 
 ## Function layer(FL)
 

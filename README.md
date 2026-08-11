@@ -80,12 +80,12 @@ Encoder CW/CCW - media rewind/fast-forward; press - lights toggle
 
 | Item | Qty |
 |---|---|
-| 1N4148 DO-35 diode | 8 |
+| 1N4148 diode | 8 |
 | SK6812MINI-E LED | 8 |
-| cherry MX switches | 8 |
+| MX-style switch | 8 |
 | DSA keycap | 8 |
 | EC11 Rotary encoder | 1 |
 | XIAO RP2040 | 1 |
-| M3x16mm SHCS bolt | 4 |
+| M3x16mm screw | 4 |
 | Case (3 printed parts) | 1 |
 | PCB | 1 |

@@ -1,10 +1,6 @@
 This is my first hardware project I've ever did! I've made a lot of mistakes making it this far; I lost the count on  how many times I redesigned both the PCB and the case being sure it would be the last time.
 
-It should be about fine for the first revisions imo.
-
 On the PCB I'd maybe just put the mcu on the other side (again). Other than that, there doesn't seems to be much else to be improve on the PCB, though some silly art on the silkscreen could be added.
-
-The case however is a different story. Neither do I like the way it looks nor can I come up with a way to make it look better. Only towards the end of the my time working on this I looked at others' hackpads; I found several intersting designs.
 
 # vl_macropad
 
@@ -60,21 +56,11 @@ the *default* behaviour
 
 Encoder CW/CCW - volume up/down; press - mute
 
-|  |  |  |  |
-|---|---|---|---|
-| media - previous | media - next | media - play/pause | fn |
-| F13 | F14 | F15 | F16 |
+|  |  |  |  |  |
+|---|---|---|---|---|
+| F13 | F14 | media  previous | media next |  |
+| F15 | F16 | F17 | media play/pause | audio mute/unmute |
 
-## Function layer(FL)
-
-Accessed holding the fn key
-
-Encoder CW/CCW - media rewind/fast-forward; press - lights toggle
-
-|  |  |  |  |
-|---|---|---|---|
-| lights hue - up | lights saturation - up | lights brightness - up | fn |
-| lights hue - down | lights saturation - down | lights brightness - up | lights effect - next (i'm like 99% thats what it should do) |
 
 # BOM
 
@@ -89,3 +75,8 @@ Encoder CW/CCW - media rewind/fast-forward; press - lights toggle
 | M3x16mm screw | 4 |
 | Case (3 printed parts) | 1 |
 | PCB | 1 |
+
+
+# Does it work??
+
+I did try to make it according to the design. The first trouble was the LEDs. The LED's on the firt board I assembled just seemed to have shorted out and drew just about as much current as could. I couldn't get as much as a single led working. Therefore I ommited the LEDs from the next boards I assembled. After making modifications to the firmware, **it did work**, however after a couple of days it started booting into the bootloader mode. Given it worked before, it's probably just a skill issue of mine.
